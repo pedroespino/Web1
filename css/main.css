@@ -3289,6 +3289,7 @@ div[class^="fancy-box"] img {
   padding: 44px 36px;
   -webkit-transition: ease-out 0.14s;
   transition: ease-out 0.14s;
+    height: 324px;
 }
 
 @media (max-width: 1199.98px) {
