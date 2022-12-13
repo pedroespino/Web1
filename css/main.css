@@ -5787,7 +5787,7 @@ div[class^='bg-white'].fm-wrapper .fm-close span:before, div[class^='bg-white'].
 }
 
 .header.dark {
-  background: #141618;
+  background: #88A47C;
 }
 
 .header.black {
@@ -8747,7 +8747,7 @@ body.loaded:after {
 }
 
 .bg-dark {
-  background: #141618 !important;
+  background: #88A47C !important;
 }
 
 .bg-dark-09 {
